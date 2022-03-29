@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Alunos>
+    <Aluno ID="1">
+        <Nome>2</Nome>
+        <Nascimento>2</Nascimento>
+        <CPF>2</CPF>
+        <Curso>2</Curso>
+        <Endereço>
+            <Número>22</Número>
+            <Cidade>2</Cidade>
+            <Estado>2</Estado>
+            <Rua>2</Rua>
+        </Endereço>
+    </Aluno>
+    <Aluno ID="1">
+        <Nome>3</Nome>
+        <Nascimento>3</Nascimento>
+        <CPF>3</CPF>
+        <Curso>3</Curso>
+        <Endereço>
+            <Número>3</Número>
+            <Cidade>3</Cidade>
+            <Estado>3</Estado>
+            <Rua>3</Rua>
+        </Endereço>
+    </Aluno>
+    <Aluno ID="1">
+        <Nome>1</Nome>
+        <Nascimento>1</Nascimento>
+        <CPF>1</CPF>
+        <Curso>1</Curso>
+        <Endereço>
+            <Número>1</Número>
+            <Cidade>1</Cidade>
+            <Estado>1</Estado>
+            <Rua>1</Rua>
+        </Endereço>
+    </Aluno>
+    <Aluno ID="1">
+        <Nome>2</Nome>
+        <Nascimento>2</Nascimento>
+        <CPF>2</CPF>
+        <Curso>2</Curso>
+        <Endereço>
+            <Número>2</Número>
+            <Cidade>2</Cidade>
+            <Estado>2</Estado>
+            <Rua>2</Rua>
+        </Endereço>
+    </Aluno>
+    <Aluno ID="1">
+        <Nome>Rafael</Nome>
+        <Nascimento>8</Nascimento>
+        <CPF>8</CPF>
+        <Curso>8</Curso>
+        <Endereço>
+            <Número>8</Número>
+            <Cidade>8</Cidade>
+            <Estado>8</Estado>
+            <Rua>8</Rua>
+        </Endereço>
+    </Aluno>
+    <Aluno ID="1">
+        <Nome>9</Nome>
+        <Nascimento>9</Nascimento>
+        <CPF>9</CPF>
+        <Curso>9</Curso>
+        <Endereço>
+            <Número>9</Número>
+            <Cidade>9</Cidade>
+            <Estado>9</Estado>
+            <Rua>9</Rua>
+        </Endereço>
+    </Aluno>
+</Alunos>

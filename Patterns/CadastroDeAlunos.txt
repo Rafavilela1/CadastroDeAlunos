@@ -1,0 +1,6 @@
+Alunox,Nome=2,Nasc=2,CPF=2,Curso=2,Endereco=2, 22, 2, 2, 2
+Alunox,Nome=3,Nasc=3,CPF=3,Curso=3,Endereco=3, 3, 3, 3, 3
+Alunox,Nome=1,Nasc=1,CPF=1,Curso=1,Endereco=1, 1, 1, 1, 1
+Alunox,Nome=2,Nasc=2,CPF=2,Curso=2,Endereco=2, 2, 2, 2, 2
+Alunox,Nome=Rafael,Nasc=8,CPF=8,Curso=8,Endereco=8, 8, 8, 8, 8
+Alunox,Nome=9,Nasc=9,CPF=9,Curso=9,Endereco=9, 9, 9, 9, 9
